@@ -10,3 +10,15 @@ C:\Users\UCSE\Desktop\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Lo
 C:\Users\UCSE\Desktop\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.dll
 C:\Users\UCSE\Desktop\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\ref\Logica.dll
 C:\Users\UCSE\Desktop\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.pdb
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\bin\Debug\net6.0\Logica.dll
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\bin\Debug\net6.0\Logica.pdb
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.dll
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\Logica.pdb
+D:\PROGRAMACION II\PracticaDelegadosEventos\Logica\Logica\obj\Debug\net6.0\ref\Logica.dll
